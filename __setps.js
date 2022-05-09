@@ -9,7 +9,12 @@
  * 4. .env
  * 5. .gitignore
  * 6. package - start-dev
- * 7. 
+ * 7. npm i jsonwebtoken
+ * 8. npm i nodemon
+ * 9. npm install --save-dev nodemon
  * 
  * 
+ * Token ---
+ * 1. node
+ * 2. require('crypto').randomBytes(64).toString('hex')
  */
